@@ -14,12 +14,10 @@
 3. 点击"下载清单"按钮
 4. 程序会自动下载对应的Manifest文件并保存到当前目录
 
-## 注意事项
-- 如果编译失败，请检查`compile.bat`中的GCC路径是否正确
-- 下载过程中请确保网络连接正常
-- 下载的文件格式为ZIP压缩包，文件名与appID相同
-
 ## 示例
 - 输入纯数字ID：`730`（Counter-Strike 2的appID）
 - 输入完整链接：`https://store.steampowered.com/app/730/CounterStrike_2/`
 - 点击"下载清单"按钮后，会下载名为`730.zip`的文件
+
+## 多一嘴
+- 如果您是从Github下载此软件，即代表你可以正常访问Github，某些用户可能无法正常访问GitHub，这些用户可以选择前往https://manifest.steam.run下载
