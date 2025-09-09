@@ -20,4 +20,4 @@
 - 点击"下载清单"按钮后，会下载名为`730.zip`的文件
 
 ## 多一嘴
-- 如果您是从Github下载此软件，即代表你可以正常访问Github，某些用户可能无法正常访问GitHub，这些用户可以选择前往https://manifest.steam.run下载
+- 如果您是从Github下载此软件，即代表你可以正常访问Github，某些用户可能无法正常访问GitHub，这些用户可以选择前往https://manifest.steam.run 下载
